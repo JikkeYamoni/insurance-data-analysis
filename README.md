@@ -16,6 +16,7 @@ smoking habits, and region influence insurance charges.
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn 
 - Jupyter Notebook
 
 ## Dataset Description
